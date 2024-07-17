@@ -106,6 +106,4 @@ while True:
     elif option == "7":
         break
     
-print("Fechando Agenda de Contatos...")   
-
-
+print("Fechando Agenda de Contatos...") 
